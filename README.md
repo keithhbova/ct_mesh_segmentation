@@ -42,7 +42,13 @@ The results will save to a "ResultsObj" folder:
 
 <img src="/assets/image_of_results.png" alt="Alt text" title="Optional title">
 
+## References:
 
+The recursive_ct_converter uses a method outlined in Elyse Rier's master thesis: 
+
+"3D MODELS OF BONE FROM CT IMAGES BASED ON 3D POINT CLOUDS"
+
+The thesis can be found in the references folder.
 
 
 
