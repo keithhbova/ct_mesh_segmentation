@@ -1,0 +1,3 @@
+[submodule "3rdParty/PartSegmentationToolbox"]
+	path = 3rdParty/PartSegmentationToolbox
+	url = https://github.com/LSnyd/PartSegmentationToolbox
