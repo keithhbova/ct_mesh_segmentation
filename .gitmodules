@@ -1,3 +1,6 @@
 [submodule "3rdParty/PartSegmentationToolbox"]
 	path = 3rdParty/PartSegmentationToolbox
 	url = https://github.com/LSnyd/PartSegmentationToolbox
+[submodule "3rdParty/MedMeshCNN"]
+	path = 3rdParty/MedMeshCNN
+	url = https://github.com/LSnyd/MedMeshCNN
