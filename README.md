@@ -1,4 +1,4 @@
-# OBJ Dataset Generator:
+# CT Mesh Segmentation:
 
 The purpose of this code is to provide a tool for segmenting .obj files generated from medical data. 
 
