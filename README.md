@@ -2,7 +2,7 @@
 
 The purpose of this code is to provide a tool for segmenting .obj files generated from medical data. 
 
-<img src="/assets/image_of_mesh.png" alt="Alt text" title="Optional title">
+<img src="/assets/image_of_mesh_segmentation.png" alt="Alt text" title="Optional title">
 
 The code in this repository is designed for use with:
 
