@@ -1,6 +1,6 @@
 # CT Mesh Segmentation:
 
-The purpose of this code is to provide a tool for segmenting .obj files generated from medical data. 
+The purpose of this code is to provide a tool for segmenting bone from ct scans. 
 
 <img src="/assets/image_of_mesh_segmentation.png" alt="Alt text" title="Optional title">
 
